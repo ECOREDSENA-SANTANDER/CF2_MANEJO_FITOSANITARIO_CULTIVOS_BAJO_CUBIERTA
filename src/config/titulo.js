@@ -1,1 +1,1 @@
-module.exports = 'Ecored Base PKG'
+module.exports = 'Prácticas seguras y ambientales para el manejo fitosanitario en ambientes protegidos'
