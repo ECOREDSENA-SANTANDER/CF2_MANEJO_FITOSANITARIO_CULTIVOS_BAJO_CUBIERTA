@@ -272,6 +272,7 @@
                 span Control temperatura y humedad
               figure
                 img(src='@/assets/curso/temas/t1/fig9.png', alt='Invernadero con cultivo de lechugas, mostrando un sensor digital de temperatura y humedad, un sistema de riego y el uso de un dispositivo móvil para monitoreo ambiental.')
+              //figcaption Fuente: SISEP (s.f.).
 
     TabsA.color-acento-botones(data-aos="fade-down")
       .tarjeta.bg2.p-4(titulo="a)	Humedad relativa (HR)")

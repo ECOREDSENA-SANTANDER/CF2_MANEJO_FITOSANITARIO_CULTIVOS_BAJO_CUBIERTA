@@ -52,8 +52,9 @@ export default {
     border-radius: 5px
     color: $white
     &__text
-      overflow: hidden
-      text-overflow: ellipsis
+      white-space: normal
+      overflow-wrap: break-word
+      word-break: break-word
     &:last-child
       margin-bottom: 0 !important
     &:hover, &:active, &:focus

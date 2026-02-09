@@ -35,7 +35,7 @@
         .col-lg-5.col-md-7.mb-4
           img(src='@/assets/curso/temas/t2/acord1-1.png', alt='')
         .col-lg-6.col-md-11.mb-4
-          h5.color-adic-1 Modo de acción.
+          h5.color-adic-1 Modo de acción
           ul.lista-ul--color.fa-lista.color-adicional-1
             li
               i.fas.fa-angle-right
@@ -50,7 +50,7 @@
               span.mb-0 #[b Por inhalación o fumigación:] el insecto absorbe el insecticida en forma de gas o vapor. #[br]
                 span.mb-0 #[b Ejemplo:] fosfina, diclorvos.
         .col-md-11.col-lg-9
-          h5.color-adic-1 Principales grupos químicos.
+          h5.color-adic-1 Principales grupos químicos
           ul.lista-ul--color.fa-lista.color-adicional-1
             li.mb-0
               i.fas.fa-angle-right
@@ -82,7 +82,7 @@
               i.fas.fa-angle-right
               span.mb-0 #[b Sistémicos:] Se absorben y translocan dentro de la planta, protegiendo tejidos nuevos. #[br]
                 span.mb-0 #[b Ejemplo:] triazoles (tebuconazol, propiconazol), benzimidazoles (carbendazim).
-          h5.color-adic-1 Clasificación adicional.
+          h5.color-adic-1 Clasificación adicional
           ul.lista-ul--color.fa-lista.color-adicional-1
             li.mb-1
               i.fas.fa-angle-right
@@ -96,11 +96,11 @@
           p Se aplican para el control de mildiu, roya, tizón, oídio y otros hongos en cultivos como cereales, frutales, vid, hortalizas.
       .row.justify-content-center(titulo="c) Herbicidas")
         .col-md-11
-          p Eliminan o inhiben malezas. Son sustancias destinadas a eliminar o inhibir el crecimiento de malezas (plantas indeseables que compiten por luz, agua y nutrientes ).
+          p Eliminan o inhiben malezas. Son sustancias destinadas a eliminar o inhibir el crecimiento de malezas (plantas indeseables que compiten por luz, agua y nutrientes).
         .col-lg-5.col-md-7.mb-3.mb-lg-0
           img(src='@/assets/curso/temas/t2/acord1-3.png', alt='')
         .col-lg-6.col-md-11
-          h5.color-adic-1 Tipos según su acción.
+          h5.color-adic-1 Tipos según su acción
           ul.lista-ul--color.fa-lista.color-adicional-1
             li.mb-1
               i.fas.fa-angle-right
@@ -150,7 +150,7 @@
         .col-lg-5.col-md-7.mb-3.mb-lg-0
           img(src='@/assets/curso/temas/t2/acord1-5.png', alt='')
         .col-lg-6.col-md-11
-          h5.color-adic-1 Funciones principales.
+          h5.color-adic-1 Funciones principales
           ul.lista-ul--color.fa-lista.color-adicional-1
             li
               i.fas.fa-angle-right

@@ -28,7 +28,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0.text-white
                   h4.mb-1 Documental. Buenas prácticas en el uso de plaguicidas.
-                  p.mb-0 Para fortalecer el tema anteriormente plasmado, se presenta el siguiente video:
+                  p.mb-0 Para fortalecer el tema anteriormente plasmado, se presenta el siguiente video.
                 .col-sm-auto
                   a.boton.color-acento-botones.texto-blanco(:href="('https://www.youtube.com/watch?v=H8vHZGJoFp0')" target="_blank")
                     span Ir al sitio
