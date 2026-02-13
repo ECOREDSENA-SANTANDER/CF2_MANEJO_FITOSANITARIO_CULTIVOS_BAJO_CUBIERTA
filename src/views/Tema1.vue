@@ -271,7 +271,7 @@
                 h5 Figura 9. 
                 span Control temperatura y humedad
               figure
-                img(src='@/assets/curso/temas/t1/fig9.png', alt='Invernadero con cultivo de lechugas, mostrando un sensor digital de temperatura y humedad, un sistema de riego y el uso de un dispositivo móvil para monitoreo ambiental.')
+                img(src='@/assets/curso/temas/t1/fig9.png', alt='Control de temperatura y humedad en cultivo agrícola mediante dispositivo digital entre las plantas.')
               //figcaption Fuente: SISEP (s.f.).
 
     TabsA.color-acento-botones(data-aos="fade-down")
