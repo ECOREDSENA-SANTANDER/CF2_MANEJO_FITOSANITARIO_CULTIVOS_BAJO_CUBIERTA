@@ -17,7 +17,7 @@
         br
         p.mb-0 En el ámbito del manejo fitosanitario, las BPA establecen directrices para el uso racional, seguro y responsable de los productos fitosanitarios, abarcando desde su adecuada selección, almacenamiento y aplicación, hasta su correcta disposición final. Estas prácticas buscan minimizar los riesgos de contaminación, prevenir daños a la salud humana y conservar los ecosistemas, contribuyendo así a una producción agrícola más segura, eficiente y sostenible.
 
-    .row.bgcolor-1.tarjeta.align-items-center.p-2.p-md-4.mb-5(data-aos="fade")
+    //.row.bgcolor-1.tarjeta.align-items-center.p-2.p-md-4.mb-5(data-aos="fade")
       .col-lg-12.col-12.px-lg-4
         .row.justify-content-center.align-items-center
 

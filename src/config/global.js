@@ -138,11 +138,11 @@ export default {
         icono: 'fas fa-sort-alpha-down',
         titulo: 'Glosario',
       },
-      {
+      /*{
         nombreRuta: 'complementario',
         icono: 'far fa-folder-open',
         titulo: 'Material complementario',
-      },
+      },*/
       {
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',
@@ -151,7 +151,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/CFA_02_73310057_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -165,7 +165,7 @@ export default {
       },
     ],
   },
-  complementario: [
+  /*complementario: [
     {
       tema: 'Uso seguro y responsable de productos fitosanitarios.',
       referencia:
@@ -188,7 +188,7 @@ export default {
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=L5x1I7QDWE4',
     },
-  ],
+  ],*/
   glosario: [
     {
       termino: 'Absorción',
