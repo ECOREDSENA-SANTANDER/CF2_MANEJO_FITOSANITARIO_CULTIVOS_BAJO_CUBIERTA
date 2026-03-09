@@ -325,40 +325,29 @@ export default {
     {
       referencia:
         'Bermejo Merino, J. M., Guisasola Yeregui, A., Cabrerizo Benito, J. I., & Bermejo Olairola. (2018). _Guía para la utilización segura de productos fitosanitarios._ Instituto Vasco de Seguridad y Salud Laborales (OSALAN).',
-      link:
-        'https://www.osalan.euskadi.eus/contenidos/libro/higiene_201805/es_def/adjuntos/guia_fitosanitarios_osalan.pdf',
     },
     {
       referencia:
         'CropLife Latin America. (s. f.). Clasificación de plaguicidas [Infografía].',
-      link: 'https://croplifela.org/images/2023/clasificacion-plaguicidas.png',
     },
     {
       referencia:
         'Instituto Colombiano Agropecuario (ICA). (2012). Manejo fitosanitario del cultivo de hortalizas: Medidas para la temporada invernal.',
-      link:
-        'https://www.ica.gov.co/getattachment/bb883b42-80da-4ae5-851f-4db05edf581b/Manejo-fitosanitario-del-cultivo-de-hortalizas.aspx',
     },
     {
       referencia:
         'Red de BPA. (2015). Buenas prácticas agrícolas: Lineamientos de base. Cámara de Sanidad Agropecuaria y Fertilizantes (CASAFE).',
-      link:
-        'https://www.casafe.org/pdf/2015/BUENAS-PRACTICAS-AGRICOLAS/BuenasPracticasAgricolas-LineamientosdeBase.pdf',
     },
     {
       referencia: 'SISEP:. (s. f.). Diagrama del desarrollo sostenible.',
-      link: 'https://www.sisep.cl/assets/img/main/img5.jpg',
     },
     {
       referencia:
         'Unidad Técnica de Proyectos ASOHOFRUCOL. (2017). Guía básica para la implementación de buenas prácticas agrícolas.',
-      link: 'https://www.asohofrucol.com.co/img/pdflibros/16libro.pdf',
     },
     {
       referencia:
         'Vasquez Gallo, L. A. (s. f.). Buenas prácticas agrícolas (BPA). Editorial AGROSAVIA.',
-      link:
-        'https://editorial.agrosavia.co/index.php/publicaciones/catalog/download/162/147/1122-1?inline=1',
     },
   ],
   creditos: [
@@ -421,7 +410,7 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Laura Paola Gelvez Manosalva',
+          nombre: 'Sandra Liliana Cristancho Cruz',
           cargo: 'Evaluadora para contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },

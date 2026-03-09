@@ -76,11 +76,11 @@
           ul.lista-ul--color.fa-lista.color-adicional-1.mb-4
             li
               i.fas.fa-angle-right
-              span.mb-0 #[b De contacto:] Permanecen en la superficie del tejido vegetal, evitando la germinación de esporas. No penetran la planta. #[br]
+              span.mb-0 #[b De contacto:] permanecen en la superficie del tejido vegetal, evitando la germinación de esporas. No penetran la planta. #[br]
                 span.mb-0 #[b Ejemplo:] cobre (oxicloruro de cobre, sulfato de cobre), mancozeb.
             li
               i.fas.fa-angle-right
-              span.mb-0 #[b Sistémicos:] Se absorben y translocan dentro de la planta, protegiendo tejidos nuevos. #[br]
+              span.mb-0 #[b Sistémicos:] se absorben y translocan dentro de la planta, protegiendo tejidos nuevos. #[br]
                 span.mb-0 #[b Ejemplo:] triazoles (tebuconazol, propiconazol), benzimidazoles (carbendazim).
           h5.color-adic-1 Clasificación adicional
           ul.lista-ul--color.fa-lista.color-adicional-1
@@ -194,7 +194,7 @@
         .col-lg-1.col-md-2.col-3
           img(src="@/assets/curso/temas/t2/3.svg")
         .col-lg-9.col-md-10.col-9
-          p.text-white.mb-0 #[b Nota:] es obligatorio leer la etiqueta del producto para identificar la clase toxicológica indicada por el color de la franja. Rojo: muy peligroso; amarillo: moderado; azul: leve; verde: poco peligroso. También se deben considerar las siguientes siglas y su significado: SGA, sistema globalmente armonizado de clasificación y etiquetado de productos químicos; GHS, globally harmonized system of classification and labelling of chemicals.
+          p.text-white.mb-0 #[b Nota:] es obligatorio leer la etiqueta del producto para identificar la clase toxicológica indicada por el color de la franja. Rojo: muy peligroso; amarillo: moderado; azul: leve; verde: poco peligroso. También se deben considerar las siguientes siglas y su significado: SGA, Sistema Globalmente Armonizado de Clasificación y Etiquetado de Productos Químicos; GHS, Globally Harmonized System of Classification and Labelling of Chemicals. 
 
     .subt2.mb-4(data-aos="fade-right")
       h4.mb-0.p-2.pe-lg-5 Importancia de esta clasificación

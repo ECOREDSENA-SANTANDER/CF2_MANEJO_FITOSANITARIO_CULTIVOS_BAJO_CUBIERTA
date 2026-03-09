@@ -279,7 +279,7 @@
         h4.sin-b #[b a)	Humedad relativa (HR):] ideal: 60 - 80 %, dependiendo del cultivo.   
         p Para incrementar HR, se utiliza riego por nebulización, aspersión o reducción de ventilación y para reducir HR, se aumenta la ventilación o calefacción (para evitar condensación en hojas y estructuras).
       .tarjeta.bg2.p-4(titulo="b)	Temperatura")
-        h4.sin-b #[b b)	Temperatura:] Óptima para la mayoría de cultivos hortícolas: 18 - 28 °C (día), 12 - 18 °C (noche). 
+        h4.sin-b #[b b)	Temperatura:] óptima para la mayoría de cultivos hortícolas: 18 - 28 °C (día), 12 - 18 °C (noche). 
         p Para reducir la temperatura se emplean estrategias como el sombreo, la ventilación y los sistemas de enfriamiento evaporativo o nocturno. En cambio, para incrementarla se recurre a calefactores, tuberías de agua caliente y mantas térmicas.
 
 

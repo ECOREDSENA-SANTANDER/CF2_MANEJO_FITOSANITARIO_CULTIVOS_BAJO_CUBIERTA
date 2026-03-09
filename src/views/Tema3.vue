@@ -77,7 +77,7 @@
           p.mb-0 La trazabilidad es la capacidad de rastrear el historial completo de un producto agrícola, desde la siembra hasta el consumidor final. En el manejo fitosanitario, esto implica llevar registros precisos y actualizados de cada aplicación o tratamiento realizado en el cultivo.
 
     .row.justify-content-center.cursor-pointer.mb-4.mb-md-5(data-aos="fade-down")
-      .col-lg-4.col-md-9.mb-3.mb-lg-0
+      .col-xxl-4.col-xl-5.col-lg-6.col-md-9.mb-3.mb-xxl-0
         .tarjeta.tarjeta-foto-hover
           .tarjeta-foto-hover__img: img(src='@/assets/curso/temas/t3/tarj1-1.png')
           .tarjeta-foto-hover__titulo.d-flex.justify-content-center.align-items-center.p-2
@@ -95,7 +95,7 @@
                 li
                   i.fas.fa-angle-right
                   span.mb-0 Contribuye a la transparencia y confianza con compradores y consumidores.
-      .col-lg-4.col-md-9.mb-3.mb-lg-0
+      .col-xxl-4.col-xl-5.col-lg-6.col-md-9.mb-3.mb-xxl-0
         .tarjeta.tarjeta-foto-hover(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
           .tarjeta-foto-hover__img: img(src='@/assets/curso/temas/t3/tarj1-2.png')
@@ -129,7 +129,7 @@
                 li.mb-0
                   i.fas.fa-angle-right
                   span.mb-0 Observaciones (efectividad, síntomas, presencia de plagas, etc.). 
-      .col-lg-4.col-md-9.mb-3.mb-lg-0
+      .col-xxl-4.col-xl-5.col-lg-6.col-md-9.mb-3.mb-xxl-0
         .tarjeta.tarjeta-foto-hover
           .tarjeta-foto-hover__img: img(src='@/assets/curso/temas/t3/tarj1-3.png')
           .tarjeta-foto-hover__titulo.d-flex.justify-content-center.align-items-center.p-2
