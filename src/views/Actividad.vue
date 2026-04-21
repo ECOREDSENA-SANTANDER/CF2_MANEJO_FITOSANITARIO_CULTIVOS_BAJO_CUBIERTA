@@ -27,7 +27,7 @@ export default {
         'Prácticas seguras y ambientales para el manejo fitosanitario en ambientes protegidos',
       titulo: 'Cuestionario',
       introduccion:
-        '<b>Objetivo:</b> Promover la aplicación de prácticas seguras y ambientalmente responsables en el manejo fitosanitario dentro de ambientes protegidos. ',
+        '<b>Objetivo:</b> promover la aplicación de prácticas seguras y ambientalmente responsables en el manejo fitosanitario dentro de ambientes protegidos. ',
       barajarPreguntas: false,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO',
