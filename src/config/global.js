@@ -138,11 +138,6 @@ export default {
         icono: 'fas fa-sort-alpha-down',
         titulo: 'Glosario',
       },
-      /*{
-        nombreRuta: 'complementario',
-        icono: 'far fa-folder-open',
-        titulo: 'Material complementario',
-      },*/
       {
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',
@@ -165,30 +160,6 @@ export default {
       },
     ],
   },
-  /*complementario: [
-    {
-      tema: 'Uso seguro y responsable de productos fitosanitarios.',
-      referencia:
-        'Cámara de Sanidad Agropecuaria y Fertilizantes (CASAFE). (2019). Manual de uso responsable de los productos fitosanitarios. ',
-      tipo: 'PDF',
-      link:
-        'https://www.casafe.org/wp-content/uploads/2019/05/Manual-Uso-Responsable-Productos-Fitosanitarios.pdf',
-    },
-    {
-      tema: 'Factores ambientales que influyen en el desarrollo del cultivo. ',
-      referencia:
-        'TvAgro. (2024). Adaptación de hortalizas a climas extremos - TvAgro por Juan Gonzalo Angel Restrepo. ',
-      tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=wHsX0Iu0Fb0',
-    },
-    {
-      tema: 'Equipos de protección personal. ',
-      referencia:
-        'Matarrita Diaz, L. (2013). Equipos de protección personal (EPP) español.',
-      tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=L5x1I7QDWE4',
-    },
-  ],*/
   glosario: [
     {
       termino: 'Absorción',
@@ -358,7 +329,7 @@ export default {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
             'Profesional 06. Responsable Ecosistema de Recursos Educativos Digitales (RED)',
-          centro: 'Dirección General',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Edison Eduardo Mantilla Cuadros',
